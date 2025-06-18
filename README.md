@@ -57,7 +57,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-[Your Name] - [Your GitHub Profile]
+Daniru Hesara - [Hesara22]
 
 ## Acknowledgments
 
